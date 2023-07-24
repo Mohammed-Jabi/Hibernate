@@ -1,4 +1,4 @@
-package com.tap.hybernetproject;
+package com.tap.module;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
